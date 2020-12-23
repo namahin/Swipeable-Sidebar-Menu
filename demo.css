@@ -1,0 +1,10 @@
+@media(min-width:1199px) {
+    .touch-side-swipe li {
+        display: block;
+        float: left;
+        padding: 4px;
+        margin-right: 5px;
+        border-radius: 2px;
+        border: 1px solid #fff;
+    }
+}
